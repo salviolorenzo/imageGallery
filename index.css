@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+img{
+    width: 40%;
+    max-height: 500px;
+    margin: 5px;
+
+}
